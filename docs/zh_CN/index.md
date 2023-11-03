@@ -14,7 +14,7 @@ Clash是一个跨平台的基于规则的代理工具, 在网络和应用层运�
 
 虽然这个 Wiki 涵盖了上述两个版本的内容, 然而对于普通用户来说, Clash 的使用可能仍是一种挑战. 而对于考虑使用 GUI 客户端的用户, 我们确实有一些建议:
 
-- [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) (Windows 和 macOS)
+- [Clash Verge](https://github.com/zzzgydi/clash-verge) (Windows 和 macOS 和 linux)
 - [Clash for Android](https://github.com/Kr328/ClashForAndroid)
 - [ClashX](https://github.com/yichengchen/clashX) 或 [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) (macOS)
 
