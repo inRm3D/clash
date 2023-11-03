@@ -14,7 +14,7 @@ There are currently two editions of Clash:
 
 While this wiki covers both, however, the use of Clash could be challenging for the average users. Those might want to consider using a GUI client instead, and we do have some recommendations:
 
-- [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) (Windows and macOS)
+- [Clash Verge](https://github.com/zzzgydi/clash-verge) (Windows and macOS and linux)
 - [Clash for Android](https://github.com/Kr328/ClashForAndroid)
 - [ClashX](https://github.com/yichengchen/clashX) or [ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) (macOS)
 
